@@ -1,5 +1,5 @@
 import React,{ useState }from 'react';//useState is responsible for storing data inside of a component
-import './App.css;
+import './App.css';
 import List from "./component/List"
 import AddToList from "./component/AddToList"
 
