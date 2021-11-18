@@ -1,5 +1,4 @@
 import React,{ useState }from 'react';//useState is responsible for storing data inside of a component
-import logo from './logo.svg';
 import './App.css';
 import List from "./component/List"
 import AddToList from "./component/AddToList"
